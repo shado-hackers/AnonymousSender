@@ -13,27 +13,27 @@ Bot created by @shado_hackers
 
 Follow meh : [Click Here](https://mobile.twitter.com/Shado_hackers)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+Support : [OMG INFO](https://t.me/OMG_info)
 
-Language : [Python](www.python.org)
+LEECH group : [don't touch](https://t.me/nexleech)
 
-Developer : @StarkProgrammer
+Developer : @shado_hackers
     """
 
     # Home Button
     home_button = [[InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]]
 
     # Remove Caption Button
-    remove_button = [InlineKeyboardButton("� Remove Caption �", callback_data="remove")]
+    remove_button = [InlineKeyboardButton("❗Remove Caption ❕", callback_data="remove")]
 
     # Add caption button
-    add_button = [InlineKeyboardButton("💬 Re-Add Caption 💬", callback_data="add")]
+    add_button = [InlineKeyboardButton("💬 Re-Add Caption 📂", callback_data="add")]
 
     # Rest Buttons
     buttons = [
         [
             InlineKeyboardButton("🎪 About The Bot 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ deploy bot ♥", url="https://deployheroku.vercel.app/")],
+        [InlineKeyboardButton("❄️Support Group ☀️", url="https://t.me/OMG_info")],
     ]
