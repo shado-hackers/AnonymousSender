@@ -1,6 +1,6 @@
 from Data import Data
-from pyrogram import Client, filters , massage
-from pyrogram.types import InlineKeyboardMarkup
+from pyrogram import Client, filters 
+from pyrogram.types import InlineKeyboardMarkup , Massage 
 
 
 # Copy Message
